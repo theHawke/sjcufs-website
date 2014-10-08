@@ -1,1 +1,1 @@
-* SJC Utimate Frisbee Team Website *
+# SJC Utimate Frisbee Team Website #
